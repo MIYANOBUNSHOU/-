@@ -40,8 +40,8 @@ CI/CD流水线完善
 算法冲刺
 ### 参考资料：
 《Kubernetes in Action》《持续交付》《SRE: Google运维解密》《算法导论》
-https://blog.csdn.net/2402_89883046/article/details/157137442?sharetype=blogdetail&sharerId=157137442&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118
 
 
 
 #### -      这个计划是我根据自己的水平查找过大量资料和询问AI之后制定的，按照我的学习计划我会每天把学习成果上传到CSDN、GitHub和百度贴吧的程序员吧，希望有更多大佬或者和我一样正在学习的朋友能看到并多多的给我一点建议，在学习过程中我会根据大家的建议和我自己的感受适时调整计划，在此感谢Chat GPT、Qwen Chat、DeepSeek和几位不愿透露姓名的朋友在我制定计划期间对我的帮助。
+[全栈学习日记•序](https://blog.csdn.net/2402_89883046/article/details/157137442?sharetype=blogdetail&sharerId=157137442&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118)
