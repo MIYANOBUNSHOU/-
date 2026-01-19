@@ -40,6 +40,7 @@ CI/CD流水线完善
 算法冲刺
 ### 参考资料：
 《Kubernetes in Action》《持续交付》《SRE: Google运维解密》《算法导论》
+https://blog.csdn.net/2402_89883046/article/details/157137442?sharetype=blogdetail&sharerId=157137442&sharerefer=PC&sharesource=2402_89883046&spm=1011.2480.3001.8118
 
 
 
